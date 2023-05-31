@@ -1,0 +1,19 @@
+.home-page-body{
+    background-color: #d6e2e8;
+    background-image: url("kennie.png");
+    width: 100vw;
+    height: 100vh;
+    background-size: 100vw 100vh;
+    background-size: fill;
+    background-repeat: no-repeat;
+    object-fit: fill;
+  }
+
+.navStyle{
+    background-color: #d6e2e8;
+    height: 60px;
+}
+
+.nav-link{
+    font: black;
+}
